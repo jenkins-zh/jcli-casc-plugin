@@ -24,6 +24,9 @@ jobs:
           args: check
       - name: Build
         run: |
+          export PATH=$PATH:${PWD}/upx-3.96-amd64_linux
+          curl -L https://github.com/upx/upx/releases/download/v3.96/upx-3.96-amd64_linux.tar.xz | tar xJ
+          upx -V
           make build
       - name: Test
         run: |
