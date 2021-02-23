@@ -159,8 +159,8 @@ github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 h1:BQSFePA1RWJOl
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99/go.mod h1:1lJo3i6rXxKeerYnT8Nvf0QmHCRC1n8sfWVwXF2Frvo=
 github.com/jenkins-zh/jenkins-cli v0.0.32 h1:q3KyWeYegQ4ncLI6zoPAXFkRXjaAGdjCI2qEc7fmOGk=
 github.com/jenkins-zh/jenkins-cli v0.0.32/go.mod h1:uE1mH9PNITrg0sugv6HXuM/CSddg0zxXoYu3w57I3JY=
-github.com/jenkins-zh/jenkins-cli v0.0.34 h1:ht5OnhxVC2WQK89IHM1GTLjWqvCB8ZVjyeeXMNTVLOY=
-github.com/jenkins-zh/jenkins-cli v0.0.34/go.mod h1:soh8mMMtyxFcIVSP4wLv4MXeqWFQDPeC85Nh6Qur8G8=
+github.com/jenkins-zh/jenkins-cli v0.0.35 h1:KNqEdK4o21dBV8mmgJTmLLeVknypeWSrRWyTCjTsiSA=
+github.com/jenkins-zh/jenkins-cli v0.0.35/go.mod h1:hgE1TR8UPzL/CAgL0t4ukMfDjt5ZSMvKkUi36GFew78=
 github.com/jenkins-zh/jenkins-formulas v0.0.5 h1:6d/WoZCSdjTMRry1wHRe2rrf6zQHlfXmaPbp0Bi3I6w=
 github.com/jenkins-zh/jenkins-formulas v0.0.5/go.mod h1:zS8fm8u5L6FcjZM0QznXsLV9T2UtSVK+hT6Sm76iUZ4=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
@@ -199,8 +199,8 @@ github.com/linuxsuren/http-downloader v0.0.2-0.20201207132639-19888a6beaec/go.mo
 github.com/linuxsuren/http-downloader v0.0.6/go.mod h1:xxgh2OE7WGL9TwDE9L8Gh7Lqq9fFPuHbh5tofUitEfE=
 github.com/linuxsuren/http-downloader v0.0.10 h1:LavSzwPzHvxSp1b3hnP4IVNiP79p8VqDHnKU5q2mFjA=
 github.com/linuxsuren/http-downloader v0.0.10/go.mod h1:4hVRWYnIifme60jM0gCoEzglPdjUt7fBwXRwYs/rwwE=
-github.com/linuxsuren/http-downloader v0.0.15 h1:C/d0SNcY8BbjQ5TAF9F1dgiL1EFYewDWe18ByU/ud7U=
-github.com/linuxsuren/http-downloader v0.0.15/go.mod h1:NdmON+hy9MoAsS1hHg6H2BRu9uNSDCoq+fM/k6gWmpg=
+github.com/linuxsuren/http-downloader v0.0.16 h1:zRTJ5DdKODLJzcOAr9OwuiTmaS/CQ0twiws/994QdXY=
+github.com/linuxsuren/http-downloader v0.0.16/go.mod h1:NdmON+hy9MoAsS1hHg6H2BRu9uNSDCoq+fM/k6gWmpg=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/magiconair/properties v1.8.1 h1:ZC2Vc7/ZFkGmsVC9KvOjumD+G5lXy2RtTKyzRKO2BQ4=
 github.com/magiconair/properties v1.8.1/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
