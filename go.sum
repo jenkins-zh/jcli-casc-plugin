@@ -160,8 +160,8 @@ github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANyt
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 h1:BQSFePA1RWJOlocH6Fxy8MmwDt+yVQYULKfN0RoTN8A=
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99/go.mod h1:1lJo3i6rXxKeerYnT8Nvf0QmHCRC1n8sfWVwXF2Frvo=
 github.com/jenkins-zh/jenkins-cli v0.0.32/go.mod h1:uE1mH9PNITrg0sugv6HXuM/CSddg0zxXoYu3w57I3JY=
-github.com/jenkins-zh/jenkins-cli v0.0.36 h1:vVlZgjtcAp1WARGHDkGlK4vgZoLzw0H9gWbTNq4ebd4=
-github.com/jenkins-zh/jenkins-cli v0.0.36/go.mod h1:xjaKs6cJp6RT1r1vXD0mV7OuoCHAPNNjsHu/piQV5pI=
+github.com/jenkins-zh/jenkins-cli v0.0.37 h1:Qe/VDOJ3HrA0CPwudBUkjXZ+GdGM60SKaIxFJmJq6qE=
+github.com/jenkins-zh/jenkins-cli v0.0.37/go.mod h1:QhIzSD38TcxAQyo+zZlS5gzM4ufJ7tbkHKRp8pbjGUc=
 github.com/jenkins-zh/jenkins-formulas v0.0.5 h1:6d/WoZCSdjTMRry1wHRe2rrf6zQHlfXmaPbp0Bi3I6w=
 github.com/jenkins-zh/jenkins-formulas v0.0.5/go.mod h1:zS8fm8u5L6FcjZM0QznXsLV9T2UtSVK+hT6Sm76iUZ4=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
@@ -202,8 +202,9 @@ github.com/linuxsuren/http-downloader v0.0.22 h1:YHfBRQ6fC6Veo/VXopzRNjXR3yhvxhv
 github.com/linuxsuren/http-downloader v0.0.22/go.mod h1:qeevaR7rbr047PLAfa1+TwgA3I2cOuGcIhFLOJjwlL8=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/magiconair/properties v1.8.1/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
-github.com/magiconair/properties v1.8.4 h1:8KGKTcQQGm0Kv7vEbKFErAoAOFyyacLStRtQSeYtvkY=
 github.com/magiconair/properties v1.8.4/go.mod h1:y3VJvCyxH9uVvJTWEGAELF3aiYNyPKd5NZ3oSwXrF60=
+github.com/magiconair/properties v1.8.5 h1:b6kJs+EmPFMYGkow9GiUyCyOvIwYetYJ3fSaWak/Gls=
+github.com/magiconair/properties v1.8.5/go.mod h1:y3VJvCyxH9uVvJTWEGAELF3aiYNyPKd5NZ3oSwXrF60=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.2/go.mod h1:U0ppj6V5qS13XJ6of8GYAs25YV2eR4EVcfRqFIhoBtE=
 github.com/mattn/go-colorable v0.1.4 h1:snbPLB8fVfU9iwbbo30TPtbLRzwWu6aJS6Xh4eaaviA=
